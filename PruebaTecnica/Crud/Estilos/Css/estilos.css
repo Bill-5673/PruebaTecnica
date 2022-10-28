@@ -1,0 +1,76 @@
+.cuerpo
+{
+    background-color: #BFC2D6;
+}
+.color
+{
+    background-color: #BFC2D6;
+    height:50px;
+    display: flex;
+    justify-content: center;
+    
+}
+.boton 
+{
+    background: #93a3d1;
+    box-shadow: 0px 4px 0px 0px #161616;
+    padding: 10px 30px;
+    color: black;
+    font-size: 16px;
+    border-radius: 4px;
+    display: inline-block;
+    text-align: center;
+    font-weight: 600;
+    text-transform: uppercase;
+    border: none;
+}
+
+.tbl
+{
+    display: flex;
+    justify-content: center;
+
+}
+
+table 
+{     
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 12px;    
+    margin: 45px;     
+    width: 480px; 
+    text-align: left;    
+    border-collapse: collapse; 
+    
+}
+
+th 
+{     
+    font-size: 13px;
+    font-weight: normal;
+    padding: 8px;     
+    background: #f8f9fa;
+    border-top: 4px solid #96a9ed;  
+    border-bottom: 1px solid #fff; color: #039; 
+}
+.form
+{
+    display: flex;
+    justify-content: center;
+}
+.tbox 
+{
+    background-color: #eee;
+    border: 0;
+}
+.centrar
+{
+    
+    display: flex;
+    justify-content: center;
+}
+.busqueda
+{
+    justify-content: right;
+    padding:5px 26px
+}
+
